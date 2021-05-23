@@ -1,6 +1,6 @@
 ## Convolutional Neural Network [Pooling Vs Non Pooling]
 
-A Simple of CNN on a Keras Datasets.
+A Simple of Convolutional Layer on a Keras Datasets.
 
 Objective :
   
